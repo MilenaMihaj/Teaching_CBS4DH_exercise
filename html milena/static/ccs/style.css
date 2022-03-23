@@ -1,0 +1,35 @@
+p{
+  color: blue;
+  font-weight: bold;
+  background-color: gray;
+}
+
+ul{
+  font-style: oblique;
+}
+
+table, th, td{
+  border: 1px solid red;
+}
+
+.coolPeople{
+  font-family: "Helvetica", "Times New Roman", Times,sans-serif;
+  border-spacing: 0;/* Remove the cell spacing via CSS */
+}
+
+.tableTitles{
+  background-color: #77a9ef;
+}
+
+div{
+  margin:auto;
+  width: auto;
+  border: 3px solid green
+  padding: 10px;
+}
+
+.center{
+  margin: auto;
+  width: auto;
+  text-align: center;
+}
